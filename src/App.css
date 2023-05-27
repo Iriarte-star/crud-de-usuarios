@@ -1,1 +1,8 @@
 
+
+body {
+    background-image: url('/public/annie-spratt-6a3nqQ1YwBw-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: beige;
+  }
